@@ -44,7 +44,7 @@ const Liked = async () => {
                 <div className="
                   flex
                   flex-col
-                  gep-y-2
+                  gap-y-2
                   mt-4
                   md:mt-0
                 ">
@@ -58,7 +58,7 @@ const Liked = async () => {
                     lg:text-7xl
                     font-bold
                   ">
-                    Liked Songs
+                    Favoritas
                   </h1>
                 </div>
               </div>

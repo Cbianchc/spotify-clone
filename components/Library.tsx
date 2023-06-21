@@ -49,7 +49,7 @@ const Library: React.FC<LibraryProps> = ({
                     font-medium
                     text-md
                     ">
-                        Tu musica crack
+                        Tu musica
                     </p>
                 </div>
                 <AiOutlinePlus 

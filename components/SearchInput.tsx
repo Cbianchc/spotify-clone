@@ -28,7 +28,7 @@ const SearchInput = () => {
 
     return (
         <Input 
-            placeholder="Que queres escuchar?"
+            placeholder="Que queres escuchar crack?"
             value={value}
             onChange={(e) => setValue(e.target.value)}
         />
