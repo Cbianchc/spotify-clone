@@ -1,34 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Clon Spotify 📻
 
-## Getting Started
+Una app de musica, para compartir entre amigos.
+- Puede subir temas en local.
+- Bloquea la pantalla durante la carga del tema.
+- Auth y gestion con Supabase (magicLink, users Admin)
+- Puede escuchar en tiempo real los temas propios, de otros usuarios.
+- Puede guardar lista de favoritos por usuario.
+- Full responsive.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Que hay dentro...
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Una interfaz similar a Spotify 
+- Tailwind
+- React.js
+- PostgreSQL
+- Next.js
+- Supabase
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Link to Proyect Demo
+[MusicApp - Versel deploy](https://entrenaflix01-6thk9ogel-ciro-bianchimanis-projects.vercel.app/auth)
+- USER: prueba@gmail.com
+- PAS: 123456
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![App Screenshot](https://i.ibb.co/Pg9WzZG/spoty01.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![App Screenshot](https://i.ibb.co/bRPwCR4/spoty02.png)
 
-## Deploy on Vercel
+![App Screenshot](https://i.ibb.co/VJMGPSb/spoty03.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![App Screenshot](https://i.ibb.co/HVNqc4m/spoty04.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![App Screenshot](https://i.ibb.co/V9CFdwB/spoty05.png)
+
+
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cirobianchimani-cv.netlify.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cirobianchimani/)
