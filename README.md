@@ -20,7 +20,7 @@ Una app de musica, para compartir entre amigos.
 - Supabase
 
 ## Link to Proyect Demo
-[MusicApp - Versel deploy](https://entrenaflix01-6thk9ogel-ciro-bianchimanis-projects.vercel.app/auth)
+[MusicApp - Versel deploy](https://spotify-clone-mxdchs2bg-cbianchc.vercel.app/)
 - USER: prueba@gmail.com
 - PAS: 123456
 
